@@ -1,0 +1,27 @@
+570  # Dota 2
+440  # Team Fortress 2
+730  # Counter-Strike: Global Offensive (CS:GO)
+578080  # PUBG: BATTLEGROUNDS
+230410  # Warframe
+304930  # Unturned
+236390  # War Thunder
+372960  # Paladins
+386360  # SMITE
+444090  # VRChat
+1172470  # Destiny 2
+976730  # Halo Infinite (Multiplayer)
+1408720  # Apex Legends
+236370  # World of Tanks
+835950  # IdleOn - The Idle RPG
+858820  # Shatterline
+550  # Left 4 Dead 2 (free temporarily, but can remain for certain accounts)
+381210  # Dead by Daylight (occasionally free-to-play weekends, consider adding as needed)
+1182480  # Among Us (periodic free weekends)
+445190  # Deceit
+706020  # Destiny 2 (base game free)
+327070  # Dead Frontier 2
+49520  # Battlerite
+933110  # PAYDAY 2 (now includes a free-to-play version)
+231430  # Company of Heroes 2 (occasionally free-to-play)
+990080  # Deceit (Free PvP horror game)
+292030  # The Witcher 3 (Trial periods or promotional events)
